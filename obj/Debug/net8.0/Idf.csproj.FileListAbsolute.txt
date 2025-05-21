@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.AssemblyInfo.cs
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.sourcelink.json
+C:\Users\User\source\repos\Idf\bin\Debug\net8.0\Idf.exe
+C:\Users\User\source\repos\Idf\bin\Debug\net8.0\Idf.deps.json
+C:\Users\User\source\repos\Idf\bin\Debug\net8.0\Idf.runtimeconfig.json
+C:\Users\User\source\repos\Idf\bin\Debug\net8.0\Idf.dll
+C:\Users\User\source\repos\Idf\bin\Debug\net8.0\Idf.pdb
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.dll
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\refint\Idf.dll
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.pdb
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\Idf.genruntimeconfig.cache
+C:\Users\User\source\repos\Idf\obj\Debug\net8.0\ref\Idf.dll
