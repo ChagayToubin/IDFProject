@@ -1,0 +1,15 @@
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\bin\Debug\net8.0\Idf.exe
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\bin\Debug\net8.0\Idf.deps.json
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\bin\Debug\net8.0\Idf.runtimeconfig.json
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\bin\Debug\net8.0\Idf.dll
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\bin\Debug\net8.0\Idf.pdb
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.AssemblyInfoInputs.cache
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.AssemblyInfo.cs
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.sourcelink.json
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.dll
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\refint\Idf.dll
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.pdb
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\Idf.genruntimeconfig.cache
+C:\Users\HOME\OneDrive\שולחן העבודה\תרגול c#\a\IDFProject\obj\Debug\net8.0\ref\Idf.dll
