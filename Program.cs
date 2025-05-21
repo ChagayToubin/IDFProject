@@ -10,8 +10,7 @@ namespace Idf
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            initialization();//אתחול של כל התוכנית
-            Console.WriteLine(IntelligenceDepartmentt.hamas.ListTerrorist[7].TimeLocatiom.First() +" "+ IntelligenceDepartmentt.hamas.ListTerrorist[17].TimeLocatiom.First()+" "+ IntelligenceDepartmentt.hamas.ListTerrorist[27].TimeLocatiom.First());
+           
 
         }
         public static void initialization()
